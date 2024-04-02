@@ -1,8 +1,9 @@
 p{
     color: aqua;
+    font: optional;
 }
 h1{
     color: palevioletred;
     font-style: bold;
-    font-size: large;
+    font-size: large ;
 }
